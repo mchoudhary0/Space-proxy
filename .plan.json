@@ -1,0 +1,8 @@
+{
+  "services": {
+    "web": {
+      "dockerfile": "Dockerfile",
+      "ports": [6060]
+    }
+  }
+}
